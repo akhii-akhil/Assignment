@@ -1,0 +1,11 @@
+table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 55px;
+    width: 50%;
+  }
+  tbody, td, tfoot, th, thead, tr {
+    border-width: 3px !important;
+    border: 1px solid black;
+  }
